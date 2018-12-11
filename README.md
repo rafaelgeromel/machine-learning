@@ -118,15 +118,18 @@ Outcomes addressed in week 4:
 ### Week 3: Introduction to Classification, KNN, Model Evaluation and Metrics. Logistic Regression
 
 #### Lecture:  
+1. [Linear Model Selection and Regularization](slides/linear_model_selection_and_regularization.pdf)   
+- Reading: ISLR Ch. 6    
 
-1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
+2. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
 - Reading: ISLR Ch. 4.6.5  
 
-2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+3. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 - Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:   
-- [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
+- [Gradient Descent](notebooks/gradient_descent_assignment.ipynb)   *Submission required*   
+- [Linear Regression - Recursive Feature Elimination - Bike sharing data set](notebooks/Lab3_LinearRegression/bike-sharing-demand-regression-rfe.ipynb)   *Submission required*
 
 Outcomes addressed in week 4:     
 - The ability to assess the quality of predictions and inferences.  
@@ -152,6 +155,7 @@ Outcomes addressed in week 4:
 - [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
 
 #### Lab Notebooks:
+- [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
 - [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
 - [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
 
