@@ -156,8 +156,7 @@ Outcomes addressed in week 4:
 
 #### Lab Notebooks:
 - [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
-- [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
-- [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
+- [Multinomial Image Classification]() *submission required*
 
 Outcomes:  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -179,8 +178,9 @@ Outcomes:
 2. Midterm Exam: 
 [Midterm review study guide]()  
 
-#### Lab Notebooks:  
-- [Random Forests](notebooks/Random-Forests.ipynb) *optional* 
+#### Lab Notebooks: 
+- [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
+- [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
 - [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission required*  
 - [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
   
