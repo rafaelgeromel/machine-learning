@@ -142,12 +142,15 @@ Outcomes addressed in week 4:
 
 #### Lecture:   
 
-1. [Model Evaluation and Metrics, ROC](slides/07_model_evaluation_and_metrics.pdf)   
+1. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+- Reading: ISLR Ch. 4  
+
+2. [Model Evaluation and Metrics, ROC](slides/07_model_evaluation_and_metrics.pdf)   
 - [Scikit-learn ROC Curve notebook](notebooks/plot_roc.ipynb)  
 - Reading: PDSH Ch. 5 p. 331-375, 390-399   
 - Reading: ISLR Ch. 5 
 
-2. [Regularization and overfitting](slides/Regularization_and_overfitting.pdf) 
+3. [Regularization and overfitting](slides/Regularization_and_overfitting.pdf) 
 
 #### Lab Notebooks:
 - [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
