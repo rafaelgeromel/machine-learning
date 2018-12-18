@@ -149,14 +149,9 @@ Outcomes addressed in week 4:
 
 2. [Regularization and overfitting](slides/Regularization_and_overfitting.pdf) 
 
-3. [Decision Trees](slides/08_decision_trees.pdf)   
-- Reading: PDSH Ch. 5 p. 421-432  
-- Reading: ISLR Ch. 8.1    
-- [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
-
 #### Lab Notebooks:
 - [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
-- [Multinomial Image Classification]() *submission required*
+- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*
 
 Outcomes:  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -168,15 +163,19 @@ Outcomes:
  
 #### Week 5: Bagging, Random Forests, Boosting, XGBoost
 
-1. [Bagging, Random Forests, Boosting](slides/Bagging_RF_Boosting.pdf) 
+#### Lecture:   
+
+1. [Decision Trees](slides/08_decision_trees.pdf)   
+- Reading: PDSH Ch. 5 p. 421-432  
+- Reading: ISLR Ch. 8.1    
+- [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
+
+2. [Bagging, Random Forests, Boosting](slides/Bagging_RF_Boosting.pdf)  
 - Reading: PDSH Ch. 5 p. 421-432  
 - Reading: ISLR Ch. 8.2  
 
-#### Lecture:    
-1. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)  
-
-2. Midterm Exam: 
-[Midterm review study guide]()  
+   
+3. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)   
 
 #### Lab Notebooks: 
 - [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
@@ -196,7 +195,7 @@ Outcomes:
 
 #### Lecture:  
 
-1. [Midterm Exam Review]() 
+1. Catch up, [Midterm Exam Review]() 
 
 2. Midterm Exam 
 
