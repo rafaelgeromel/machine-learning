@@ -154,11 +154,11 @@ Outcomes addressed in week 4:
 
 #### Lab Notebooks:
 - [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
-- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*   
+- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*     
 - If you're having trouble reading MNIST from mldata: [Write Read MNIST](notebooks/write_read_MNIST.ipynb)
-- [data](notebooks/write_read_MNIST.ipynb)
-- [mnist_data.csv](https://drive.google.com/open?id=1p-K8JpCEiATE7VrBNsfruYtn4ivorceW)
-- [mnist_target.csv](https://drive.google.com/open?id=1TnARZEzS0CPhco_MxpkVbf31zYqkuFbL)
+- [data](notebooks/write_read_MNIST.ipynb)   
+- [mnist_data.csv](https://drive.google.com/open?id=1p-K8JpCEiATE7VrBNsfruYtn4ivorceW)  
+- [mnist_target.csv](https://drive.google.com/open?id=1TnARZEzS0CPhco_MxpkVbf31zYqkuFbL)  
 
 Outcomes:  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -186,7 +186,7 @@ Outcomes:
 
 #### Lab Notebooks: 
 - [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
-- [Random Forests](notebooks/Random-Forests.ipynb) *submission pending* 
+- [Random Forests](notebooks/Random-Forests.ipynb) *submission pending*   
 - [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission pending*  
 - [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
   
