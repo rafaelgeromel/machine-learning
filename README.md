@@ -138,7 +138,7 @@ Outcomes addressed in week 4:
 
 ---
 
-### Week 4: Model Selection and Regularization, ROC, Decision Trees  
+### Week 4: Logistic Regression, Model Selection and Regularization, ROC 
 
 #### Lecture:   
 
@@ -154,7 +154,11 @@ Outcomes addressed in week 4:
 
 #### Lab Notebooks:
 - [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
-- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*
+- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*     
+- If you're having trouble reading MNIST from mldata use the following notebook to load the data:  
+[Write Read MNIST](notebooks/write_read_MNIST.ipynb)   
+- [mnist_data.csv](https://drive.google.com/open?id=1p-K8JpCEiATE7VrBNsfruYtn4ivorceW)  
+- [mnist_target.csv](https://drive.google.com/open?id=1TnARZEzS0CPhco_MxpkVbf31zYqkuFbL)  
 
 Outcomes:  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -164,7 +168,7 @@ Outcomes:
 - The ability to apply methods to real world data sets.  
 
  
-#### Week 5: Bagging, Random Forests, Boosting, XGBoost
+#### Week 5: Decision Trees, Bagging, Random Forests
 
 #### Lecture:   
 
@@ -175,16 +179,11 @@ Outcomes:
 
 2. [Bagging, Random Forests, Boosting](slides/Bagging_RF_Boosting.pdf)  
 - Reading: PDSH Ch. 5 p. 421-432  
-- Reading: ISLR Ch. 8.2  
-
-   
-3. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)   
+- Reading: ISLR Ch. 8.2   
 
 #### Lab Notebooks: 
 - [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
-- [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
-- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission required*  
-- [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
+
   
 Outcomes:  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -194,16 +193,18 @@ Outcomes:
 - The ability to apply methods to real world data sets. 
 ---
 
-#### Week 6: Midterm
+#### Week 6: Boosting, XGBoost, Midterm
 
 #### Lecture:  
 
-1. Catch up, [Midterm Exam Review]() 
+1. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)  
 
 2. Midterm Exam 
 
 #### Lab Notebooks:  
-- Decision tree, RF, and XGBoost labs continued.
+- [Random Forests](notebooks/Random-Forests.ipynb) *submission pending*   
+- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission pending*  
+- [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
 
 Outcomes:    
 
