@@ -199,12 +199,12 @@ Outcomes:
 
 1. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)  
 
-2. Midterm Exam 
+2. [Midterm Exam](handouts/Midterm-Review.pdf)
 
 #### Lab Notebooks:  
-- [Random Forests](notebooks/Random-Forests.ipynb) *submission pending*   
-- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission pending*  
-- [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
+- [Random Forests](notebooks/Random-Forests.ipynb) *recommended for study, submission not required*   
+- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *recommended for study, submission not required*  
+- [Ensembling](notebooks/16_ensembling.ipynb)  *optional, not required*   
 
 Outcomes:    
 
