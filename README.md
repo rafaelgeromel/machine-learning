@@ -217,17 +217,18 @@ Outcomes:
 
 ---
 
-#### Week 7: Introduction to Deep Learning and Gradient Descent Learning  
+#### Week 7: Introduction to Deep Learning and Backpropagation  
 
 #### Lecture:
 
 1. [Deep Learning Introduction 1](slides/Deep&#32;Learning&#32;Introduction.pdf)  
+Reference for earlier in class:   
 - [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
 - [Gradient Descent notebook](notebooks/GradientDescent.ipynb)   
 
 2. [Deep Learning Introduction 2](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
-3. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
+3. [Backpropagation](slides/backpropagation.pdf)   
 
 #### Lab Notebooks:
 - [Gradient Descent Learning](notebooks/gradient_descent_assignment.ipynb) *Submission required*
