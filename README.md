@@ -236,21 +236,21 @@ Reference for earlier in class:
 Install TensorFlow:   
 conda install -c conda-forge tensorflow   
 
-Complete the following TensorFlow "Learn and use ML" tutorials. Submit 
-screen shot demonstrating complete of the tutorial along with feedback
+&nbsp;&nbsp;Complete the following TensorFlow "Learn and use ML" tutorials. Submit 
+&nbsp;&nbsp;screen shot demonstrating complete of the tutorial along with feedback
 to Blackboard.   
 
-Get Started with TensorFlow   
-https://www.tensorflow.org/tutorials/   
+&nbsp;&nbsp;Get Started with TensorFlow   
+- https://www.tensorflow.org/tutorials/   
 
-Train your first neural network: basic classification   
-https://www.tensorflow.org/tutorials/keras/basic_classification   
+&nbsp;&nbsp;Train your first neural network: basic classification   
+- https://www.tensorflow.org/tutorials/keras/basic_classification   
 
-Explore overfitting and underfitting   
-https://www.tensorflow.org/tutorials/keras/overfit_and_underfit   
+&nbsp;&nbsp;Explore overfitting and underfitting   
+- https://www.tensorflow.org/tutorials/keras/overfit_and_underfit   
 
 Optional: 
-- [Neural Network Fundamentals](notebooks/deep_learning_intro/mnist_cnn.ipynb) *Optional*      
+- [MNIST with CNN](notebooks/deep_learning_intro/mnist_cnn.ipynb) *Optional*      
 - Work on the other "Learn and use ML" tutorials. *Optional*          
 - [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Optional*   
 - [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Optional*       
