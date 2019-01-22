@@ -226,21 +226,37 @@ Reference for earlier in class:
 - [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
 - [Gradient Descent notebook](notebooks/GradientDescent.ipynb)   
 
-2. [Deep Learning Introduction 2](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
+2. [Deep Learning Introduction 2](slides/Deep&#32;Learning&#32;Introduction.pdf)
 
 3. [Backpropagation](slides/backpropagation.pdf)   
 
-#### Lab Notebooks:
-- [Gradient Descent Learning](notebooks/gradient_descent_assignment.ipynb) *Submission required*
-- [Online Machine Learning with Stochastic Gradient Descent](notebooks/Online%20Machine%20Learning.ipynb)  *optional*   
+#### Lab Notebooks:    
+- [NeuralNetworkIntro](notebooks/NeuralNetworkIntro.ipynb)   *submission required*    
+- Additional Google Colab notebooks:    
+Install TensorFlow:   
+conda install -c conda-forge tensorflow   
 
-#### TBD:     
-*Option 1*   
-- [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Submission required*   
-- [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Submission required*   
-*Option 2*   
-- [Introduction to TensorFlow](https://github.com/jayurbain/TensorFlowIntro) *Submission required*   
-- [Neural Network Fundamentals](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
+Complete the following TensorFlow "Learn and use ML" tutorials. Submit 
+screen shot demonstrating complete of the tutorial along with feedback
+to Blackboard.   
+
+Get Started with TensorFlow   
+https://www.tensorflow.org/tutorials/   
+
+Train your first neural network: basic classification   
+https://www.tensorflow.org/tutorials/keras/basic_classification   
+
+Explore overfitting and underfitting   
+https://www.tensorflow.org/tutorials/keras/overfit_and_underfit   
+
+Optional: 
+- [Neural Network Fundamentals](notebooks/deep_learning_intro/mnist_cnn.ipynb) *Optional*      
+- Work on the other "Learn and use ML" tutorials. *Optional*          
+- [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Optional*   
+- [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Optional*       
+
+Reading:    
+- DLP Chs. 1- 4    
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
