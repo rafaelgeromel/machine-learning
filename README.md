@@ -277,8 +277,8 @@ Reading:
 
 #### Lab Notebooks:      
 - [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
-- [Image Classification](notebooks/dlp/convnets-with-small-dataset) *Submission required*      
-- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*  
+- [Convnets with Small Datasets](notebooks/dlp/convnets-with-small-datasets.ipynb) *Submission required*      
+- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Extra Credit*  
 
 Optional material:
 - [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
