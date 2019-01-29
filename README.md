@@ -256,7 +256,7 @@ Optional:
 - [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Optional*       
 
 Reading:    
-- DLP Chs. 1- 4    
+- DLP Chs. 1-4    
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -268,20 +268,24 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
+1. [Convolutional Neural Networks 1](slides/cnn_1.pdf)  
 
-2. [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)  
+2. [Convolutional Neural Networks 2](slides/cnn_1.pdf)  
 
-#### Lab Notebooks:   
-- [Introduce Data Science Project]()    
-- [Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
+Reading:  
+- DLP Ch. 5  
 
-*Note: need to prune answers from notebooks*   
+#### Lab Notebooks:      
+- [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
+- [Image Classification](notebooks/dlp/convnets-with-small-dataset) *Submission required*      
+- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*  
+
+Optional material:
+- [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
+- [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)
 
 Outcomes addressed in week 9:
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.    
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 - Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
 
@@ -308,7 +312,6 @@ Outcomes addressed in week 9:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 - Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
-
 
 ---
 
