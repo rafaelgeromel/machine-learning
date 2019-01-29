@@ -236,27 +236,27 @@ Reference for earlier in class:
 Install TensorFlow:   
 conda install -c conda-forge tensorflow   
 
-Complete the following TensorFlow "Learn and use ML" tutorials. Submit 
-screen shot demonstrating complete of the tutorial along with feedback
+&nbsp;&nbsp;Complete the following TensorFlow "Learn and use ML" tutorials. Submit 
+&nbsp;&nbsp;screen shot demonstrating complete of the tutorial along with feedback
 to Blackboard.   
 
-Get Started with TensorFlow   
-https://www.tensorflow.org/tutorials/   
+&nbsp;&nbsp;Get Started with TensorFlow   
+- https://www.tensorflow.org/tutorials/   
 
-Train your first neural network: basic classification   
-https://www.tensorflow.org/tutorials/keras/basic_classification   
+&nbsp;&nbsp;Train your first neural network: basic classification   
+- https://www.tensorflow.org/tutorials/keras/basic_classification   
 
-Explore overfitting and underfitting   
-https://www.tensorflow.org/tutorials/keras/overfit_and_underfit   
+&nbsp;&nbsp;Explore overfitting and underfitting   
+- https://www.tensorflow.org/tutorials/keras/overfit_and_underfit   
 
 Optional: 
-- [Neural Network Fundamentals](notebooks/deep_learning_intro/mnist_cnn.ipynb) *Optional*      
+- [MNIST with CNN](notebooks/deep_learning_intro/mnist_cnn.ipynb) *Optional*      
 - Work on the other "Learn and use ML" tutorials. *Optional*          
 - [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Optional*   
 - [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Optional*       
 
 Reading:    
-- DLP Chs. 1- 4    
+- DLP Chs. 1-4    
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -268,20 +268,24 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
+1. [Convolutional Neural Networks 1](slides/cnn_1.pdf)  
 
-2. [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)  
+2. [Convolutional Neural Networks 2](slides/cnn_1.pdf)  
 
-#### Lab Notebooks:   
-- [Introduce Data Science Project]()    
-- [Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
+Reading:  
+- DLP Ch. 5  
 
-*Note: need to prune answers from notebooks*   
+#### Lab Notebooks:      
+- [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
+- [Convnets with Small Datasets](notebooks/dlp/convnets-with-small-datasets.ipynb) *Submission required*      
+- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Extra Credit*  
+
+Optional material:
+- [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
+- [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)
 
 Outcomes addressed in week 9:
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.    
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 - Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
 
@@ -308,7 +312,6 @@ Outcomes addressed in week 9:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 - Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
-
 
 ---
 
