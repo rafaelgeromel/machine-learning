@@ -279,6 +279,12 @@ Reading:
 Note: You may run the following labs in the Google Collab (recommended). You will need a Google account and will need to store datasets in your own Google Drive folder. Do a `git pull` on the course repository first.  
   https://colab.research.google.com/notebooks/welcome.ipynb    
 
+Use the follow procedure when opening one of our course notebooks in Collab:   
+- Select: NEW PYTHON 3 NOTEBOOK   
+- Once the notebook opens, select EDIT, NOTEBOOK SETTINGS, and select GPU. You can also select Python 3 here as well.   
+- Select FILE, OPEN, UPLOAD and upload your notebook.   
+- For the notebooks that use the cat and dog images, you will need to upload those files to a folder on your Google Drive.    
+
 If you want to run the lab locally, use the following steps. Note: Some students wiht Windows 10 have been having problems with tensorflow + keras.   
 - Create a new environment   
 $ conda create env -n tfkeras python==3.6    
