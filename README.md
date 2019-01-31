@@ -275,7 +275,17 @@ Outcomes addressed in week 8:
 Reading:  
 - DLP Ch. 5  
 
-#### Lab Notebooks:      
+#### Lab Notebooks:  
+Note: You may run the following labs in the Google Collab (recommended). You will need a Google account and will need to store datasets in your own Google Drive folder. Do a `git pull` on the course repository first.  
+  https://colab.research.google.com/notebooks/welcome.ipynb    
+
+If you want to run the lab locally, use the following steps. Note: Some students wiht Windows 10 have been having problems with tensorflow + keras.   
+- Create a new environment   
+$ conda create env -n tfkeras python==3.6    
+$ conda activate tfkeras or $ activate tfkeras (Windows)    
+$ conda install -c conda-forge tensorflow  
+$ conda install -c conda-forge keras  
+
 - [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
 - [Convnets with Small Datasets](notebooks/dlp/convnets-with-small-datasets.ipynb) *Submission required*      
 - [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Extra Credit*  
