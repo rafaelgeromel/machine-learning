@@ -346,4 +346,9 @@ Outcomes addressed in week 10:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 - Understand deep learning concepts including representation learning.    
+
 ---
+
+Final Exam: Monday, 8-10AM, S243.
+
+
