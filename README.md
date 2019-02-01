@@ -275,8 +275,12 @@ Outcomes addressed in week 8:
 Reading:  
 - DLP Ch. 5  
 
-#### Lab Notebooks:  
-Note: You may run the following labs in the Google Collab (recommended). You will need a Google account and will need to store datasets in your own Google Drive folder. Do a `git pull` on the course repository first.  
+#### Lab Notebooks: 
+
+Setting up your environment:   
+- First, do a `git pull` on the course repository.    
+
+Note: You may run the lab notebooks in Google Collab. You will need a Google account and will need to store datasets in your own Google Drive folder. 
   https://colab.research.google.com/notebooks/welcome.ipynb    
 
 Use the follow procedure when opening one of our course notebooks in Collab:   
@@ -288,6 +292,7 @@ Use the follow procedure when opening one of our course notebooks in Collab:
 If you want to run tensorflow and keras locally, use the following installation procedure:    
 - [Tensorflow Keras Jupyter Install Cheat Sheet](tensorflow_keras_jupyter_install_cheat_sheet.txt)    
 
+Notebooks:   
 - [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
 - [Convnets with Small Datasets](notebooks/dlp/convnets-with-small-datasets.ipynb) *Submission required*      
 - [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Extra Credit*  
