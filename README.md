@@ -288,13 +288,6 @@ Use the follow procedure when opening one of our course notebooks in Collab:
 If you want to run tensorflow and keras locally, use the following installation procedure:    
 - [Tensorflow Keras Jupyter Install Cheat Sheet](tensorflow_keras_jupyter_install_cheat_sheet.txt)    
 
-steps. Note: Some students wiht Windows 10 have been having problems with tensorflow + keras.   
-- Create a new environment   
-$ conda create env -n tfkeras python==3.6    
-$ conda activate tfkeras or $ activate tfkeras (Windows)    
-$ conda install -c conda-forge tensorflow  
-$ conda install -c conda-forge keras  
-
 - [Keras Neural Network Intro](notebooks/deep_learning_intro/a-first-look-at-a-neural-network.ipynb) *Review only* 
 - [Convnets with Small Datasets](notebooks/dlp/convnets-with-small-datasets.ipynb) *Submission required*      
 - [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Extra Credit*  
