@@ -1,0 +1,46 @@
+# create a new environment 
+$ conda create -n tfx1 python==3.6
+
+# activate the environment you just created
+$ source activate tfx1 # linux/mac
+$ activate tfx1 #windows
+
+# install pip 
+$ conda install pip
+
+# install latest version of Tensorflow
+$ pip install --upgrade tensorflow 
+
+# if you are prompted to upgrade pip
+$ pip install --upgrade pip
+
+#̵ install the latest version of Keras
+$ pip install --upgrade keras
+
+# install nb_conda for easily managing/switching notebook kernel
+$ conda install nb_conda
+$ conda install jupyter
+$ conda install ipykernel
+
+# run the following to set the name of your env from within jupyter
+python -m ipykernel install --user --name tfx1 --display-name tfx1
+
+# test in python shell
+$ python
+Python 3.6.0 |Continuum Analytics, Inc.| (default, Dec 23 2016, 13:19:00) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import tensorflow as tf
+>>> import keras
+Using TensorFlow backend.
+>>> tf.__version__
+'1.12.0'
+>>> keras.__version__
+'2.2.4'
+>>> quit()
+
+# launch Jupyter Notebook
+$ jupyter notebook
+
+# after jupyter launchs use "Kernel -> Change Kernel" to set your new env tfx1
+
