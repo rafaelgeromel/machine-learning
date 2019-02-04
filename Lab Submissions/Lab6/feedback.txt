@@ -1,0 +1,4 @@
+The google colab portion of the lab was very insightful.
+It presented me with a new yet very similar environment that I was unaware of it's existance, and that I can use for future projects.
+The tutorial also helped me in understading a bit more how to use tensor flow and keras for neural network model creation.
+The overfitting tutorial was very nice in presenting graphs that better illustrated some of the concepts previously learnt in class.
