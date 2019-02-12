@@ -316,8 +316,6 @@ Outcomes addressed in week 9:
 
 2. *Optional* [Convnets for Structured Prediction](slides/dli/Lecture-3-3-convnets-struc-pred-nlp-urbain.pdf)  
 
-3. [NLP Translation](slides/nlp/3&#32;NLP&#32;Text&#32;Translations.pdf)  
-
 #### Lab Notebooks:     
 - [NLP Classification](notebooks/nlp/Text&#32;Classification/SentimentClassification.ipynb)   
 - [NLP Translation ](notebooks/nlp/Text&#32;Translation/TextTranslation.ipynb)   
@@ -335,9 +333,11 @@ Outcomes addressed in week 9:
 #### Week 10:  Generative Deep Learning
 
 #### Lecture:
-1. [Future Challenges](slides/dli/Lecture-7-1-future-challenges-urbain.pdf)
+1. [NLP Translation](slides/nlp/3&#32;NLP&#32;Text&#32;Translations.pdf)    
 
-2. [Auto-encoder, Variational Auto-encoder, GANs]()  *TBD: probably too advanced*    
+2. [Final Review Study Guide](handouts/Final-Review.pdf)   
+
+- [Future Challenges](slides/dli/Lecture-7-1-future-challenges-urbain.pdf)    
 
 #### Lab Notebooks:  
 Complete assignments   
