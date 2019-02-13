@@ -335,9 +335,9 @@ Outcomes addressed in week 9:
 #### Lecture:
 1. [NLP Translation](slides/nlp/3&#32;NLP&#32;Text&#32;Translations.pdf)    
 
-2. [Final Review Study Guide](handouts/Final-Review.pdf)   
+2. [Deep Learning Trends NLP ](slides/DeepLearningTrendsNLP2019.pdf)[DeepLearningTrendsNLP2019]
 
-- [Future Challenges](slides/dli/Lecture-7-1-future-challenges-urbain.pdf)    
+3. [Final Review Study Guide](handouts/Final-Review.pdf)   
 
 #### Lab Notebooks:  
 Complete assignments   
