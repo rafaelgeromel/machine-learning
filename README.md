@@ -317,10 +317,8 @@ Outcomes addressed in week 9:
 2. *Optional* [Convnets for Structured Prediction](slides/dli/Lecture-3-3-convnets-struc-pred-nlp-urbain.pdf)  
 
 #### Lab Notebooks:     
-- [NLP Classification](notebooks/nlp/Text&#32;Classification/SentimentClassification.ipynb)   
-- [NLP Translation ](notebooks/nlp/Text&#32;Translation/TextTranslation.ipynb)   
-
-*Note: need to prune answers from notebooks*   
+- [NLP Classification](notebooks/nlp/Text&#32;Classification/SentimentClassification.ipynb)  *Submission required*      
+- [NLP Translation ](notebooks/nlp/Text&#32;Translation/TextTranslation.ipynb) *Extra Credit*     
 
 Outcomes addressed in week 9:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
